@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    color: #ffffff;
+}
+.line{
+    position: absolute;
+}
+.top{
+    background: url('img1.png');
+    background-repeat: no-repeat;
+    background-position:0px -521px;
+    width: 385px;
+    height: 95px;
+}
+.toleft{
+    background: url('img3.png');
+    background-repeat: no-repeat;
+    background-position:-3px -78px;
+    width: 55px;
+    height: 80px;
+
+}
+.toright{
+    background: url('img3.png');
+    background-repeat: no-repeat; 
+    background-position:-3px -140px;
+    width: 55px;
+    height: 80px;
+}
